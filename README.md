@@ -3,11 +3,12 @@
 ![PHP Composer](https://github.com/stantabcorp/post-tracking/workflows/PHP%20Composer/badge.svg)
 
 This project aims to create an open-source, free to use API, which includes *every* post/logistics company tracking.  
-Feel free to add a service following [La Poste example](https://github.com/stantabcorp/post-tracking/blob/master/Services/LaPoste.php) and make a pull request.
+Feel free to add a service following [The creating a new service guide](https://github.com/stantabcorp/post-tracking/wiki/Creating-a-new-service) and make a pull request.
 
 ## Hosted version
 An hosted version of this api is comming soon.  
 This access will be free, without any registration but limited in request count.
+[You can found out more here](https://github.com/stantabcorp/post-tracking/wiki/API-Usage)
 
 ## Selfhosting
 In order to self host this api please meet the following requirements:
@@ -22,5 +23,16 @@ Here is a list of inculded services:
 - [X] Chronopost
 
 ## Funding
-You can help us to cover the hosting expenses of the API by [becoming a sponsor on Open Collective](https://opencollective.com/post-tracking-api)
-[![Become a Sponsor](https://opencollective.com/post-tracking-api/tiers/sponsors.svg?avatarHeight=36&width=600)](https://opencollective.com/post-tracking-api)
+You can help us to cover the hosting expenses of the API by [becoming a backer](https://opencollective.com/post-tracking-api#backer) or a [sponsor](https://opencollective.com/post-tracking-api#sponsor).
+
+### Backers
+Thank you for your financial support 🙏. [Become one.](https://opencollective.com/post-tracking-api#backer)
+<a href="https://opencollective.com/post-tracking-api#backers" target="_blank"><img src="https://opencollective.com/post-tracking-api/backers.svg?width=890"></a>
+
+### Sponsors
+Support the API by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor.](https://opencollective.com/post-tracking-api#sponsor)
+<a href="https://opencollective.com/post-tracking-api/sponsor/0/website" target="_blank"><img src="https://opencollective.com/post-tracking-api/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/post-tracking-api/sponsor/1/website" target="_blank"><img src="https://opencollective.com/post-tracking-api/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/post-tracking-api/sponsor/2/website" target="_blank"><img src="https://opencollective.com/post-tracking-api/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/post-tracking-api/sponsor/3/website" target="_blank"><img src="https://opencollective.com/post-tracking-api/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/post-tracking-api/sponsor/4/website" target="_blank"><img src="https://opencollective.com/post-tracking-api/sponsor/4/avatar.svg"></a>
